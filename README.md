@@ -1,4 +1,4 @@
-gpndata-payment
+GPNData Payment Library Class
 ===============
 
-GPNData Payment Library
+GPNData Payment Library Class.
